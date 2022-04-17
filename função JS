@@ -1,0 +1,3 @@
+function acendeLampada() {
+    alert ("Lâmpada Acendeu")
+}
